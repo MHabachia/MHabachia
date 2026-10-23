@@ -20,4 +20,12 @@ Experienced in designing, implementing, and maintaining medium to large enterpri
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+<h2 align="center">🐍 Mein GitHub Snake-Game</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHabachia/MHabachia/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MHabachia/MHabachia/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MHabachia/MHabachia/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
