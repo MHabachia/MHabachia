@@ -20,7 +20,4 @@ Experienced in designing, implementing, and maintaining medium to large enterpri
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=MHabachia&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](./profile-3d-contrib/profile-green-animate.svg)
