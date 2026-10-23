@@ -20,4 +20,4 @@ Experienced in designing, implementing, and maintaining medium to large enterpri
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
