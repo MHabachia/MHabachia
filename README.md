@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Mohamad Habachia
-### Network Engineer • DevOps Enthusiast • Business Informatics @ HTW Berlin
+### Network Engineer • Tech Enthusiast • Business Informatics @ HTW Berlin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamad-habachia">
