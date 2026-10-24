@@ -14,10 +14,14 @@
 ---
 
 ### 💫 About Me
-* 🎓 **Study:** Business Informatics at **HTW Berlin**
-* 🌐 **Background:** Experienced in designing, implementing, and maintaining medium to large enterprise networks
-* 🚀 **Current Focus:** Coding my way into **DevOps & Cloud Automation**
-* 💡 **Passions:** Networking architectures, self-hosting & Homelab experiments
+* 📜 **Background:** Certified IT Specialist for System Integration (**IHK-geprüfter Fachinformatiker**)
+* 🎓 **Education:** Currently studying Business Informatics at **HTW Berlin**
+* 🌐 **Infrastructure & Networks:** Extensive hands-on experience in planning, implementing, and maintaining medium-to-large enterprise infrastructures:
+  * **Enterprise Wi-Fi & Core Networking**
+  * **Secure Remote Access & Zero Trust Architectures** (Site-to-Site & Client-to-Site VPNs)
+  * **Virtualization & Systems:** Multi-OS virtualization, enterprise NAS solutions & automated backup strategies
+* 🚀 **Current Focus:** Bridging deep sysadmin & network expertise with modern **DevOps, CI/CD & Cloud Automation**
+* 💡 **Passions:** Homelabbing, open-source self-hosting & infrastructure tinkering
 
 ---
 
