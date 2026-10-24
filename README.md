@@ -21,7 +21,15 @@
   * **Secure Remote Access & Zero Trust Architectures** (Site-to-Site & Client-to-Site VPNs)
   * **Virtualization & Systems:** Multi-OS virtualization, enterprise NAS solutions & automated backup strategies
 * 🚀 **Current Focus:** Bridging deep sysadmin & network expertise with modern **DevOps, CI/CD & Cloud Automation**
-* 💡 **Passions:** Homelabbing, open-source self-hosting & infrastructure tinkering
+
+---
+
+### 🚀 Featured Projects
+
+| Repository | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 📦 [**PROJEKT-1-NAME**](https://github.com/MHabachia/bookmarkit-backend) | Java-based API to Manage Web Bookmarks | `Java` `PostgreSQL` `Gradle` |
+| ⚙️ [**PROJEKT-2-NAME**](https://github.com/MHabachia/PROJEKT-2-NAME) | Desktop app for downloading Moodle course content for colleges and schools | `Rust` `Tauri` `Typscript` |
 
 ---
 
@@ -30,6 +38,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Rust](https://shields.io)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -46,6 +55,7 @@
 ![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+
 ---
 
 ### 📊 GitHub Activity & 3D Contributions
