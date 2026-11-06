@@ -68,19 +68,19 @@ I am a **Certified IT Specialist for System Integration (IHK)**, currently expan
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
-<br>
+
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
-<br>
+
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MHabachia&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160" />
 </div>
 
-<br>
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
