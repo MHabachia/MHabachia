@@ -75,8 +75,9 @@ I am a **Certified IT Specialist for System Integration (IHK)**, currently expan
 </div>
 
 
-
+<br>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </div>
 
+<br>
