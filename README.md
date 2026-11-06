@@ -78,7 +78,6 @@ I am a **Certified IT Specialist for System Integration (IHK)**, currently expan
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MHabachia&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MHabachia&theme=github_dark&hide_border=true&layout=compact&langs_count=6" height="160" />
 </div>
 
 <br>
