@@ -70,8 +70,6 @@ I am a **Certified IT Specialist for System Integration (IHK)**, currently expan
 
 <br>
 
-### 📊 Activity & Contributions
-
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
